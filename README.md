@@ -8,6 +8,10 @@ BoloArtKG is a digital humanities project developed to represent the artistic he
 
 Cultural heritage institutions increasingly rely on digital technologies to preserve, organize, and disseminate information about artworks, artists, and historical monuments. Among these technologies, Knowledge Graphs and Artificial Intelligence have become essential tools for managing large volumes of cultural heritage data and revealing meaningful relationships between cultural entities.
 
+### Project Website
+Google Sites Version
+https://sites.google.com/view/boloartkg/home?authuser=0
+
 ### Introcution
 This project focuses on the Bolognese School of Painting, one of the most influential artistic movements in Italy and Europe. Using ARCO, the Italian Knowledge Graph for Cultural Heritage, the project investigates how semantic technologies can be employed to retrieve, organize, and enrich information related to painters, artworks, museums, and cultural institutions associated with Bologna.
 
