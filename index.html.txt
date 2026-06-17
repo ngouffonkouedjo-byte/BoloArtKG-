@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BoloArtKG</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>BoloArtKG</h1>
+<p>BoloArtKG: Enriching ARCO with Knowledge Graphs and Artificial Intelligence</p>
+
+<div class="graph">
+
+  <div class="node">Bologna</div>
+  <div class="node">Bolognese School</div>
+  <div class="node">Carracci Family</div>
+
+  <div class="node">Annibale Carracci → Butcher's Shop</div>
+  <div class="node">Agostino Carracci → Assumption of the Virgin</div>
+  <div class="node">Ludovico Carracci → Aurora</div>
+  <div class="node">Guido Reni → Saint Sebastian</div>
+  <div class="node">Guercino → Et in Arcadia Ego</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
