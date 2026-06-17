@@ -179,12 +179,11 @@ University of Bologna Course Materials – Knowledge Computing for the Humanitie
 
 ### Author
 
-Jean Paul Ngouffo Nkouedjo 
-Henri Lamine Faye
+Jean Paul Ngouffo Nkouedjo and Henri Lamine Faye
 
 University of Bologna
 School of Languages, Literatures, Translation and Interpreting
-Department of Modern Languages, Literatures and Cultures
+Department of Modern Languages, Literaturess and Cultures
 Programme in Language, Society and Communication
 <img width="1256" height="176" alt="image" src="https://github.com/user-attachments/assets/35a69940-94e5-43d4-84c1-2e5732cbc45e" />
 
